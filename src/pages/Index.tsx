@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import polarBearSticker from "@/assets/polar-bear-sticker.png";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/app-sidebar";
 import { ChatArena } from "@/components/modules/chat-arena";
