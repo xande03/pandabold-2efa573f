@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import polarBearSticker from "@/assets/polar-bear-sticker.png";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/app-sidebar";
 import { ChatArena } from "@/components/modules/chat-arena";
@@ -82,6 +83,11 @@ const Index = () => {
             </AnimatePresence>
           </main>
         </div>
+        <img
+          src={polarBearSticker}
+          alt="Urso polar"
+          className="fixed bottom-4 right-4 w-16 h-16 z-50 pointer-events-none opacity-80 drop-shadow-lg"
+        />
       </div>
     </SidebarProvider>
   );
