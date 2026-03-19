@@ -83,6 +83,11 @@ const Index = () => {
             </AnimatePresence>
           </main>
         </div>
+        <img
+          src={polarBearSticker}
+          alt="Urso polar"
+          className="fixed bottom-4 right-4 w-16 h-16 z-50 pointer-events-none opacity-80 drop-shadow-lg"
+        />
       </div>
     </SidebarProvider>
   );
