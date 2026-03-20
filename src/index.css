@@ -13,40 +13,40 @@
     --background: 0 0% 18%;
     --foreground: 0 0% 95%;
 
-    --card: 270 35% 88%;
-    --card-foreground: 270 30% 15%;
+    --card: 0 0% 22%;
+    --card-foreground: 0 0% 95%;
 
-    --popover: 270 35% 88%;
-    --popover-foreground: 270 30% 15%;
+    --popover: 0 0% 22%;
+    --popover-foreground: 0 0% 95%;
 
     --primary: 270 70% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 270 25% 82%;
-    --secondary-foreground: 270 30% 15%;
+    --secondary: 0 0% 26%;
+    --secondary-foreground: 0 0% 95%;
 
-    --muted: 270 20% 85%;
-    --muted-foreground: 270 15% 45%;
+    --muted: 0 0% 24%;
+    --muted-foreground: 0 0% 60%;
 
     --accent: 270 70% 55% / 0.15;
-    --accent-foreground: 270 70% 55%;
+    --accent-foreground: 270 70% 60%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 270 20% 80%;
-    --input: 270 20% 80%;
+    --border: 0 0% 28%;
+    --input: 0 0% 28%;
     --ring: 270 70% 55%;
 
     --radius: 0.75rem;
 
-    --sidebar-background: 270 35% 88%;
-    --sidebar-foreground: 270 30% 15%;
+    --sidebar-background: 0 0% 14%;
+    --sidebar-foreground: 0 0% 90%;
     --sidebar-primary: 270 70% 55%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 270 25% 82%;
-    --sidebar-accent-foreground: 270 30% 15%;
-    --sidebar-border: 270 20% 78%;
+    --sidebar-accent: 0 0% 20%;
+    --sidebar-accent-foreground: 0 0% 95%;
+    --sidebar-border: 0 0% 24%;
     --sidebar-ring: 270 70% 55%;
 
     --gradient-from: 270 70% 55%;
